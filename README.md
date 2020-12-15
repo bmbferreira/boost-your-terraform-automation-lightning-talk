@@ -1,5 +1,7 @@
 # "Boost your terraform automation" presentation slides
 
+[![hackmd-github-sync-badge](https://hackmd.io/-wq7GY3jQ8eP_atPMd3KKA/badge)](https://hackmd.io/-wq7GY3jQ8eP_atPMd3KKA)
+
 [Slides](./slides.md) of the lightning talk about terraform automation tooling. 
 
 Shown in the following meetups/conferences:
